@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at [UCLA](https://www.ucla.edu), supervised by Prof. [Lei He](https://www.ee.ucla.edu/lei-he/) in the ECE department and Prof. [Ying‑nian Wu](http://www.stat.ucla.edu/~ywu/) in the Statistics department. I receive my B.S. degree from [Peking University](https://english.pku.edu.cn) in 2017.
+I am a Ph.D candidate at [UCLA](https://www.ucla.edu), supervised by Prof. [Lei He](https://www.ee.ucla.edu/lei-he/) in the ECE department and Prof. [Ying‑nian Wu](http://www.stat.ucla.edu/~ywu/) in the Statistics department. I receive my B.S. degree from [Peking University](https://english.pku.edu.cn) in 2017.
 
-My research interestfocuses on **Efficient Data Exploitation** in Deep Learning. Specifically, I work on efficient and scalable gen‑erative algorithms and feature representation learning, emphasizing models for **data generation**, **model adaptation**, and **domain transfer**. Furthermore, I am also interested in AI‑driven applications, especiallyin **Computer‑Aided Diagnosis**and **Digital Humanity**.
+My research interests primarily focus on the field of **Deep Generative Models**. Specifically, my work involves developing efficient and integrated deep generative techniques for cross-domain and cross-modality image translation, with emphasis on medical imaging. I am particularly interested in exploring cutting-edge unsupervised generative approaches, such as **adversarial learning**, **MCMC teaching**, and **score learning**.
